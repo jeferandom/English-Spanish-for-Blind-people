@@ -30,14 +30,14 @@
 En el pasado simple la acción inició y terminó en el pasado.
 ## Afirmaciones
 ### Estructura 
-[Sujeto](Personal_Pronouns.md)  más Verbo más Complemento
+[Sujeto](Personal_Pronouns.md)  más [Verbo en pasado simple](Verbs.md) más Complemento
 ## Negaciones
 ### Estructura
-[Sujeto](Personal_Pronouns.md)  más did not más verbo más complemento
+[Sujeto](Personal_Pronouns.md)  más did not más verbo en forma base más complemento
 
 ## Interrogaciones
 ### Estructura
-Did más [Sujeto](Personal_Pronouns.md) más verbo más complemento
+Did más [Sujeto](Personal_Pronouns.md) más verbo en forma base más complemento
 
 ## Formas
 ### Yo fui a la escuela

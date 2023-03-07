@@ -1,0 +1,2 @@
+- [Irregular Verbs](Irregular_Verbs.md)
+- [Regular Verbs](Regular_Verbs.md)
